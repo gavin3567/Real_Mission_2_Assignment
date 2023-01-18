@@ -85,6 +85,8 @@ namespace Mission_2_Assignment
                 counter++;
             }
 
+            // THIS IS WORKING
+
             //This represents the total number of rolls
             int total = 0;
 
